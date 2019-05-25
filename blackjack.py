@@ -1,4 +1,4 @@
-#This class contains all the functionality/classes for my game
+#This class contains all the classes and logic for my game
 import random                                                           #Using the random libary for the shuffle method, line 39 (to shuffle my deck)                                                                                                                                                                                                                                                                                              
 import os                                                               #Using the os libary for the os.system("clear") method to clear the console and keep it clean (line 121 ect.)
 
