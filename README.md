@@ -1,10 +1,10 @@
 # PythonExamProjectBlackjack
 
-Assignment:
-
+    Assignment:
+    
     Create a console application of the card game Blackjack.
     
-    The rules of the game can be found here: Black Jack Rules
+    The rules of the game can be found here: https://en.wikipedia.org/wiki/Blackjack
         I never got to implement being able to split, but I was told that wasn't needed
 
     Further requirements
@@ -14,7 +14,8 @@ Assignment:
         Was told this wasn't exactly needed as the dealer doesn't do anything beside drawing
     A bet functionality should be implemented.
     
-General for all projects:
+    General for all projects:
+    
     The project should be finished, meaning: don´t hand in and show up at the exam with something half done.
         The project is finished and all required functionality are in the program
     Your code will be evaluated in terms of readability
@@ -23,7 +24,3 @@ General for all projects:
         All of the code is thoroughly commented
     The code should be tested and you should at the exam be abel to talk about your tests and demonstrate them.
         There's a module called tests.py (also uploaded) which contains 10 unit tests
-    
-    
-
-
