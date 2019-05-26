@@ -2,10 +2,12 @@
 
     Assignment:
     
+    
     Create a console application of the card game Blackjack.
     
     The rules of the game can be found here: https://en.wikipedia.org/wiki/Blackjack
         - I never got to implement being able to split, but I was told that wasn't needed
+
 
     Further requirements:
     
