@@ -1,1 +1,3 @@
 # PythonExamProjectBlackJack
+
+MANGLER
