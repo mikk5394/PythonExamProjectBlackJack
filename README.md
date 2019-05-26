@@ -1,6 +1,6 @@
 # PythonExamProjectBlackjack
 
-    # Assignment:
+    Assignment:
     
     Create a console application of the card game Blackjack.
     
