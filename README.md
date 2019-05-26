@@ -1,6 +1,6 @@
 # PythonExamProjectBlackjack
 
-    Assignment:
+    # Assignment:
     
     Create a console application of the card game Blackjack.
     
@@ -13,6 +13,7 @@
     The player should be able to choose if he or she wants to be a player or a dealer.
         Was told this wasn't exactly needed as the dealer doesn't do anything beside drawing
     A bet functionality should be implemented.
+    
     
     General for all projects:
     
