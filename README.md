@@ -13,8 +13,7 @@ Assignment:
     The player should be able to choose if he or she wants to be a player or a dealer.
         Was told this wasn't exactly needed as the dealer doesn't do anything beside drawing
     A bet functionality should be implemented.
-
-
+    
 General for all projects:
     The project should be finished, meaning: don´t hand in and show up at the exam with something half done.
         The project is finished and all required functionality are in the program
@@ -24,3 +23,7 @@ General for all projects:
         All of the code is thoroughly commented
     The code should be tested and you should at the exam be abel to talk about your tests and demonstrate them.
         There's a module called tests.py (also uploaded) which contains 10 unit tests
+    
+    
+
+
