@@ -32,7 +32,7 @@
     
     How to run the program:
     
-    Download the 2 .py files and run the script.py and the game will start.
+    Download the 2 .py files and run the script.py and the game will start. (The tests.py is not needed to run the game)
     At first the player will be asked how much he/she wish to buy in for. 
     Afterwards the player is prompted to place a bet and the first round begins.
     After each round the player is asked if he/she wants to play again. If not, press q enter and the game will stop.
