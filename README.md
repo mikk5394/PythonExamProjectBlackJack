@@ -28,3 +28,9 @@
         - All of the code is thoroughly commented        
     The code should be tested and you should at the exam be abel to talk about your tests and demonstrate them.
         - There's a module called tests.py (also uploaded) which contains 10 unit tests
+    
+    
+    How to run the program:
+    
+    Download the 2 .py files and run the script.py and the game will start.
+    At first the player will be asked how much he/she wish to buy in for. Afterwards the player is prompted to place a bet and     the first round begins. If the player hits 0 in balance, the player will be asked to buy in again.
