@@ -34,4 +34,5 @@
     
     Download the 2 .py files and run the script.py and the game will start.
     At first the player will be asked how much he/she wish to buy in for. 
-    Afterwards the player is prompted to place a bet and     the first round begins. If the player hits 0 in balance, the       player will be asked to buy in again.
+    Afterwards the player is prompted to place a bet and the first round begins. 
+    If the player hits 0 in balance, the player will be asked to buy in again.
